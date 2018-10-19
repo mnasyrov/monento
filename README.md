@@ -18,14 +18,14 @@ Visit [app site][app-site] for more details.
 
 ## Downloads
 
-The latest version:
+The latest versions:
 * Android: [Google Play][google-play], [APK file][latest-release]
 * iOS: [App Store][appstore-ios]
 * Linux: [AppImage][latest-release], [.tar.gz][latest-release]
 * Mac: [DMG file][latest-release]
 * Windows: [EXE file][latest-release]
 
-Previous versions can be found in [Release][releases] page.
+All versions can be found at [GitHub Releases][releases] page.
 
 ## License
 
