@@ -8,7 +8,7 @@ Monento is a cross-platform app which helps people manage finances, set goals an
 * 💵 Multi-currency accounts
 * 🛒 Flexible categories
 * 🔖 Tags
-* 📱 Cross-platform: [Android][google-play], [iOS][appstore-ios], Windows, Mac and Linux.
+* 📱 Cross-platform: Android, iOS, Linux, Mac and Windows.
 * ☁️ Cloud sync across devices
 * 🔐 Local and end-to-end encryption
 * 📦 Import and export CSV and JSON files
