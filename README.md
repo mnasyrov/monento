@@ -1,6 +1,6 @@
 # Monento
 
-Monento is a cross-platform app which helps people manage finances, set goals and achieve results.
+Monento is a cross-platform app which helps manage finances, set goals and achieve results.
 
 ## Features
 
