@@ -13,7 +13,7 @@ Monento is a cross-platform app which helps manage finances, set goals and achie
 * 🔐 Local and end-to-end encryption
 * 📦 Import and export CSV and JSON files
 
-Visit [app site][app-site] for more details.
+Visit [Monento site][monento-site] for more details.
 
 
 ## Downloads
@@ -32,7 +32,7 @@ All versions can be found at [GitHub Releases][releases] page.
 Copyright © 2018, Mikhail Nasyrov (LadnySoft)
 
 
-[app-site]: https://monento.com
+[monento-site]: https://monento.com
 [latest-release]: https://github.com/ladnysoft/monento/releases/latest
 [releases]: https://github.com/ladnysoft/monento/releases
 [google-play]: https://play.google.com/store/apps/details?id=com.monento.app
