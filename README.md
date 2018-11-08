@@ -2,6 +2,7 @@
 
 Monento is a cross-platform app for simple and secure tracking of personal finances on all devices.
 
+[Download now](#download) and start to control your finances!
 
 ## Features
 
@@ -87,6 +88,8 @@ Monento Pro subscription is purchased by mobile app stores:
 
 _Final price and currency may vary by a store and location. It is displayed before completing payment._
 
+
+## Download Monento <a name="download"></a>
 
 ### Mobile apps
 
