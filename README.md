@@ -81,7 +81,7 @@ Visit [Monento site][monento-site] for more details.
 - 14-day free trial
 - ✅ All basic features
 - ✅ Cloud data syncing
-- ✅ Helps develop and maintain the app.
+- ❤️ Helps develop and maintain the app.
 
 Monento Pro subscription is purchased by mobile app stores: 
 - [Apple App Store][apple-app-store]
@@ -132,7 +132,7 @@ Other versions are available [here][latest-release].
 
 Email us at [support@monento.com](mailto:support@monento.com)
 
-We are happy to answer any questions and suggestions ❤️
+We are happy to answer any questions and suggestions!
 
 
 ### Follow us
