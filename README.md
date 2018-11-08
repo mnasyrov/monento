@@ -2,7 +2,8 @@
 
 Monento is a cross-platform app for simple and secure tracking of personal finances on all devices.
 
-[Download now](#download) and start to control your finances!
+[Download apps](#download)
+
 
 ## Features
 
