@@ -144,7 +144,7 @@ Check news on our channels:
 
 
 ---
-© 2018 [Mikhail Nasyrov](https://mnasyrov.com) ([LadnySoft](https://ladnysoft.com)) • 
+© [Mikhail Nasyrov](https://mnasyrov.com) ([LadnySoft](https://ladnysoft.com)), 2018 • 
 [Terms of Service](https://monento.com/terms) • 
 [Privacy Policy](https://monento.com/privacy)
 
