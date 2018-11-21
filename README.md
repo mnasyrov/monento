@@ -120,10 +120,12 @@ _Requires Windows 7 and higher._
 
 **Linux**
 
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monento)
+
+Other packages:
 - [AppImage (64-bit)][download-linux-appimage]
 - [tar.gz (64-bit)][download-linux-targz]
-  
-Other versions are available [here][latest-release].
+- More builds are [here][latest-release].
 
 
 ## Contacts
@@ -154,8 +156,8 @@ Check news on our channels:
 [apple-app-store]: https://itunes.apple.com/app/id1358591666
 [google-play-store]: https://play.google.com/store/apps/details?id=com.monento.app
 [latest-release]: https://github.com/ladnysoft/monento/releases/latest
-[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.4/Monento-1.2.4-mac.dmg
-[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.4/Monento-1.2.4-win-x64.exe
-[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.4/Monento-1.2.4-win-ia32.exe
-[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.4/Monento-1.2.4-linux-x86_64.AppImage
-[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.4/Monento-1.2.4-linux-x64.tar.gz
+[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-mac.dmg
+[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-win-x64.exe
+[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-win-ia32.exe
+[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-linux-x86_64.AppImage
+[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-linux-x64.tar.gz
