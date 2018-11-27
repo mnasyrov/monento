@@ -70,18 +70,18 @@ Visit [Monento site][monento-site] for more details.
 **Basic**
 - Free
 - No sign-up required
-- ✅ No Ads
-- ✅ Accounting
-- ✅ Categories and tags
-- ✅ Local data encryption
-- ✅ Data import and export
+- No Ads
+- Accounting
+- Categories and tags
+- Local data encryption
+- Data import and export
 
 **Monento Pro**
 - $1/month or $10/year
 - 14-day free trial
-- ✅ All basic features
-- ✅ Cloud data syncing
-- ❤️ Helps develop and maintain the app.
+- All basic features
+- Cloud data syncing
+- Helps develop and maintain the app ❤️
 
 Monento Pro subscription is purchased by mobile app stores: 
 - [Apple App Store][apple-app-store]
