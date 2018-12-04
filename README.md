@@ -105,6 +105,7 @@ _Final price and currency may vary by a store and location. It is displayed befo
 
 **macOS**
 
+- [Download on the Mac App Store][apple-mac-store]
 - [Download DMG file][download-mac-dmg]
 
 _Requires macOS 10.10 and higher._ 
@@ -154,10 +155,11 @@ Check news on our channels:
 
 [monento-site]: https://monento.com
 [apple-app-store]: https://itunes.apple.com/app/id1358591666
+[apple-mac-store]: https://itunes.apple.com/app/id1425801329
 [google-play-store]: https://play.google.com/store/apps/details?id=com.monento.app
 [latest-release]: https://github.com/ladnysoft/monento/releases/latest
-[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-mac.dmg
-[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-win-x64.exe
-[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-win-ia32.exe
-[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-linux-x86_64.AppImage
-[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.5/Monento-1.2.5-linux-x64.tar.gz
+[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-mac.dmg
+[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-win-x64.exe
+[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-win-ia32.exe
+[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-linux-x86_64.AppImage
+[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-linux-x64.tar.gz
