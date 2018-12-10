@@ -158,8 +158,8 @@ Check news on our channels:
 [apple-mac-store]: https://itunes.apple.com/app/id1425801329
 [google-play-store]: https://play.google.com/store/apps/details?id=com.monento.app
 [latest-release]: https://github.com/ladnysoft/monento/releases/latest
-[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-mac.dmg
-[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-win-x64.exe
-[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-win-ia32.exe
-[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-linux-x86_64.AppImage
-[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.7/Monento-1.2.7-linux-x64.tar.gz
+[download-mac-dmg]: https://github.com/ladnysoft/monento/releases/download/v1.2.8/Monento-1.2.8-mac.dmg
+[download-win-x64]: https://github.com/ladnysoft/monento/releases/download/v1.2.8/Monento-1.2.8-win-x64.exe
+[download-win-ia32]: https://github.com/ladnysoft/monento/releases/download/v1.2.8/Monento-1.2.8-win-ia32.exe
+[download-linux-appimage]: https://github.com/ladnysoft/monento/releases/download/v1.2.8/Monento-1.2.8-linux-x86_64.AppImage
+[download-linux-targz]: https://github.com/ladnysoft/monento/releases/download/v1.2.8/Monento-1.2.8-linux-x64.tar.gz
