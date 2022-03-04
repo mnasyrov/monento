@@ -138,20 +138,6 @@ Email us at [support@monento.com](mailto:support@monento.com)
 We are happy to answer any questions and suggestions!
 
 
-### Follow us
-
-Check news on our channels:
-- Twitter: [@monentoapp](https://twitter.com/monentoapp)
-- Telegram: https://t.me/monentoapp
- 
-
-
----
-© [Mikhail Nasyrov](https://mnasyrov.com) ([LadnySoft](https://ladnysoft.com)), 2018 • 
-[Terms of Service](https://monento.com/terms) • 
-[Privacy Policy](https://monento.com/privacy)
-
-
 
 [monento-site]: https://monento.com
 [apple-app-store]: https://itunes.apple.com/app/id1358591666
