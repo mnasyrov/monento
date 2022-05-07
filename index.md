@@ -1,7 +1,3 @@
----
-title: Monento
----
-
 # Monento
 
 Cross-platform application for personal finance tracking
